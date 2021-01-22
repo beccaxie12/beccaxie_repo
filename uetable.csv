@@ -1,0 +1,219 @@
+ue rank,country,percentunemployment
+1,Cocos (Keeling) Islands,0.1
+2,Cambodia,0.3
+3,Niger,0.3
+4,Laos,0.7
+5,Malta,0.78
+6,Belarus,0.8
+7,Thailand,0.99
+8,Benin,1.0
+9,Falkland Islands (Islas Malvinas),1.0
+10,Gibraltar,1.0
+11,Isle of Man,1.1
+12,Kuwait,1.1
+13,Tonga,1.1
+14,Guernsey,1.2
+15,United Arab Emirates,1.6
+16,Palau,1.7
+17,Vanuatu,1.7
+18,Madagascar,1.8
+19,Macau,2.0
+20,Monaco,2.0
+21,Tokelau,2.0
+22,Faroe Islands,2.2
+23,Singapore,2.25
+24,Guatemala,2.3
+25,Switzerland,2.31
+26,Japan,2.36
+27,Liechtenstein,2.4
+28,Tajikistan,2.4
+29,Papua New Guinea,2.5
+30,Cuba,2.6
+31,Guinea,2.7
+32,Rwanda,2.7
+33,Czechia,2.8
+34,Liberia,2.8
+35,British Virgin Islands,2.9
+36,Maldives,2.9
+37,Hong Kong,2.93
+38,Nepal,3.0
+39,Seychelles,3.0
+40,Denmark,3.05
+41,Romania,3.06
+42,Vietnam,3.11
+43,United Kingdom,3.17
+44,Kyrgyzstan,3.18
+45,Bhutan,3.2
+46,Malaysia,3.3
+47,Netherlands,3.41
+48,Hungary,3.45
+49,Mexico,3.49
+50,Bahrain,3.6
+51,Iceland,3.62
+52,China,3.64
+53,Andorra,3.7
+54,Norway,3.72
+55,Taiwan,3.73
+56,"Korea, South",3.76
+57,Israel,3.81
+58,United States,3.89
+59,Bolivia,4.0
+60,Burma,4.0
+61,Cayman Islands,4.0
+62,Jersey,4.0
+63,New Zealand,4.13
+64,Cameroon,4.3
+65,Bangladesh,4.4
+66,Timor-Leste,4.4
+67,Fiji,4.5
+68,Guam,4.5
+69,Saint Kitts and Nevis,4.5
+70,Russia,4.6
+71,Kazakhstan,4.8
+72,Sri Lanka,4.83
+73,Trinidad and Tobago,4.9
+74,Estonia,4.94
+75,Ireland,4.98
+76,Germany,4.98
+77,Moldova,4.99
+78,Slovakia,5.0
+79,Azerbaijan,5.0
+80,Uzbekistan,5.0
+81,Dominican Republic,5.1
+82,Philippines,5.11
+83,Australia,5.16
+84,Samoa,5.2
+85,Indonesia,5.31
+86,Belgium,5.36
+87,Luxembourg,5.36
+88,Poland,5.43
+89,Honduras,5.6
+90,Montserrat,5.6
+91,Bulgaria,5.66
+92,Canada,5.67
+93,Paraguay,5.7
+94,Ecuador,5.71
+95,Eritrea,5.8
+96,Albania,5.83
+97,Pakistan,6.0
+98,Saudi Arabia,6.0
+99,Panama,6.14
+100,Latvia,6.14
+101,Nicaragua,6.4
+102,Comoros,6.5
+103,Portugal,6.55
+104,Peru,6.58
+105,Angola,6.6
+106,Finland,6.63
+107,Mauritius,6.65
+108,Sweden,6.78
+109,Brunei,6.9
+110,Central African Republic,6.9
+111,Togo,6.9
+112,Venezuela,6.9
+113,Bermuda,7.0
+114,El Salvador,7.0
+115,Cyprus,7.07
+116,Chile,7.22
+117,Austria,7.35
+118,Uruguay,7.6
+119,Slovenia,7.64
+120,Aruba,7.7
+121,Jamaica,7.72
+122,Egypt,7.86
+123,Mali,7.9
+124,Anguilla,8.0
+125,Mongolia,8.0
+126,Croatia,8.07
+127,Costa Rica,8.1
+128,San Marino,8.1
+129,France,8.12
+130,Lithuania,8.4
+131,India,8.5
+132,Equatorial Guinea,8.6
+133,Saint Pierre and Miquelon,8.7
+134,Wallis and Futuna,8.8
+135,Ukraine,8.89
+136,Qatar,8.9
+137,Suriname,8.9
+138,Belize,9.0
+139,Cabo Verde,9.0
+140,Greenland,9.1
+141,Morocco,9.23
+142,Cote d'Ivoire,9.4
+143,Uganda,9.4
+144,Lebanon,9.7
+145,Argentina,9.84
+146,Italy,9.88
+147,Turks and Caicos Islands,10.0
+148,"Bahamas, The",10.1
+149,Barbados,10.1
+150,Mauritania,10.2
+151,Tanzania,10.3
+152,Virgin Islands,10.4
+153,Colombia,10.5
+154,Puerto Rico,10.8
+155,Antigua and Barbuda,11.0
+156,Turkmenistan,11.0
+157,Guyana,11.1
+158,Northern Mariana Islands,11.2
+159,Zimbabwe,11.3
+160,Algeria,11.7
+161,Georgia,11.8
+162,Iran,11.8
+163,Ghana,11.9
+164,Brazil,11.93
+165,Niue,12.0
+166,Sint Maarten,12.0
+167,Sao Tome and Principe,12.2
+168,Curacao,13.0
+169,Cook Islands,13.1
+170,Turkey,13.68
+171,"Saint Helena, Ascension, and Tristan da Cunha",14.0
+172,Serbia,14.1
+173,Spain,14.13
+174,New Caledonia,14.7
+175,Sierra Leone,15.0
+176,Zambia,15.0
+177,Tunisia,15.5
+178,Montenegro,15.82
+179,Iraq,16.0
+180,"Micronesia, Federated States of",16.2
+181,Nigeria,16.5
+183,Greece,17.3
+184,Ethiopia,17.5
+185,Saint Vincent and the Grenadines,18.8
+186,Armenia,18.9
+187,Jordan,19.1
+188,Sudan,19.6
+189,Botswana,20.0
+190,Saint Lucia,20.0
+191,Malawi,20.4
+192,French Polynesia,21.8
+193,Dominica,23.0
+194,Nauru,23.0
+195,Afghanistan,23.9
+196,Grenada,24.0
+197,Mozambique,24.5
+198,"Korea, North",25.6
+199,Yemen,27.0
+200,Gaza Strip,27.9
+201,West Bank,27.9
+202,Eswatini,28.0
+203,Gabon,28.0
+204,Lesotho,28.1
+205,South Africa,28.53
+206,American Samoa,29.8
+207,Libya,30.0
+208,Kosovo,30.5
+209,Kiribati,30.6
+210,Bosnia and Herzegovina,33.28
+211,Namibia,34.0
+212,"Congo, Republic of the",36.0
+213,Marshall Islands,36.0
+214,Djibouti,40.0
+215,Kenya,40.0
+216,Haiti,40.6
+217,Senegal,48.0
+218,Syria,50.0
+219,Burkina Faso,77.0
